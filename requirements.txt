@@ -6,3 +6,5 @@ langchain-community
 langchain-experimental
 tavily-python
 langchain-ollama
+youtube-transcript-api
+pytube
